@@ -35,5 +35,5 @@ This is the place to store and allow users to comment on blog articles on bunher
     |_____<a href="https://bunhere.com/projects">Projects</a>: <i>This page summarizes projects from the company and the people I've been working on.</i>
     |
     |
-    |_____<a href="https://bunhere.com/about">SerAbouties</a>: <i>My personal information and small personal achievements</i>
+    |_____<a href="https://bunhere.com/about">About</a>: <i>My personal information and small personal achievements</i>
 </pre>
