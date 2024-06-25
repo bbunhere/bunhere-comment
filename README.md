@@ -10,6 +10,8 @@ This is the place to store and allow users to comment on blog articles on bunher
 
 ## Latest Blogs
 
+* [Tạo App xem Tarot với Gemini API](https://bunhere.com/blog/vi/tarot-app-with-gemini-api) - *May 29, 2024*
+* [Giới thiệu Firebase Genkit](https://bunhere.com/blog/vi/firebase-genkit) - *May 22, 2024*
 * [Lập trình sẽ không tồn tại nếu không có “Phụ Nữ” ???](https://bunhere.com/blog/vi/program-without-women) - *May 03, 2024*
 * ["Hack" năng suất cho Web Developer](https://bunhere.com/blog/vi/hack-web-development) - *May 01, 2024*
 
